@@ -61,9 +61,13 @@ __pycache__
 /plan
 /tests/*
 !/tests/e2e/
+!/tests/skills/
 /tests/e2e/*
 !/tests/e2e/sdk_compat/
 !/tests/e2e/sdk_compat/**
+/tests/skills/*
+!/tests/skills/sdk-e2e-cases/
+!/tests/skills/sdk-e2e-cases/**
 /tests/e2e/sdk_compat/.pytest_cache/
 
 web/tsconfig.tsbuildinfo
